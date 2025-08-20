@@ -33,7 +33,9 @@ This project demonstrates Java programming, Swing GUI, event handling, and colli
 ## 📸 Screenshots
 
 <img width="1908" height="1079" alt="Screenshot 2025-08-20 232904" src="https://github.com/user-attachments/assets/38f54b4c-6a10-4b8e-b751-639ce6f87581" />
+
 <img width="1906" height="1076" alt="Screenshot 2025-08-20 232933" src="https://github.com/user-attachments/assets/c52e0f40-8a66-4c1b-8423-4488cd13eacc" />
+
 <img width="1906" height="1078" alt="Screenshot 2025-08-20 233008" src="https://github.com/user-attachments/assets/eeb46535-4591-48da-9cf9-28df7431b733" />
 
 ---
